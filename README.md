@@ -153,16 +153,19 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 ### Classification Report
 
-<img width="374" alt="Screenshot 2023-09-10 at 12 03 11 PM" src="https://github.com/KoduruSanathKumarReddy/mnist-classification/assets/69503902/707d9584-9283-4d38-87c3-faa23513fb36">
+![image](https://github.com/ManojTella/mnist-classification/assets/94883876/5fc98508-8834-4b14-9fac-0820dfa7e67e)
+
 
 
 ### Confusion Matrix
-<img width="381" alt="Screenshot 2023-09-10 at 12 02 54 PM" src="https://github.com/KoduruSanathKumarReddy/mnist-classification/assets/69503902/8c20252e-e0f5-4442-b132-22f04d81564f">
+![image](https://github.com/ManojTella/mnist-classification/assets/94883876/ba830301-d512-4f46-9018-3423fecaabb5)
+
 
 
 
 ### New Sample Data Prediction
-![seven](https://github.com/KoduruSanathKumarReddy/mnist-classification/assets/69503902/cb62f7a4-9c2e-47d7-88d4-bf4bf46edaf3)
+![image](https://github.com/ManojTella/mnist-classification/assets/94883876/cbd96a03-3d41-474b-8c82-4b93bd62b3c1)
+
 
 
 
