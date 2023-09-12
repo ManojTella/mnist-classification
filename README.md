@@ -35,6 +35,8 @@ There are a number of handwritten digits in the MNIST dataset. The assignment is
 
 ## Importing the required packages
 ~~~
+Developed By: Manoj Guna Sundar Tella.
+Reg No: 212221240026.
 
 import numpy as np
 from tensorflow import keras
